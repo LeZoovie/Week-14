@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "logging.root",
+    "type": "java.lang.String",
+    "description": "A description for 'logging.root'"
+  },
+  {
+    "name": "logging.[com.promineotech]",
+    "type": "java.lang.String",
+    "description": "A description for 'logging.[com.promineotech]'"
+  }
+]}
